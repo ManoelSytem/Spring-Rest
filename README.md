@@ -11,5 +11,5 @@ Content Negotiation,
 -------------------------------------
 Configurando o Flyway,
 Usando Jakarta Persistence (JPA),
-Usando Spring Data JPA,
+Usando Spring Data JPA,Implementando CRUD
 
